@@ -1,0 +1,1 @@
+- [Basics of Odin - A Fast, Simple Programming Language](https://youtu.be/9cwZWWIV4rY)
