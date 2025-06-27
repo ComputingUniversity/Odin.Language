@@ -1,0 +1,1 @@
+- [Is Odin "Programming done right"? (with Bill Hall)](https://youtu.be/aKYdj0f1iQI)
