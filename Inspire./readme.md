@@ -1,0 +1,1 @@
+- [Why LSPs AND Package Managers Are Bad](https://youtu.be/fYUruq352yE)
